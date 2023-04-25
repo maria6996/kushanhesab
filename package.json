@@ -1,0 +1,35 @@
+{
+    "private": true,
+    "scripts": {
+        "dev": "vite",
+        "build": "vite build"
+    },
+    "devDependencies": {
+        "@mdi/font": "^7.1.96",
+        "axios": "^1.1.2",
+        "deepmerge": "^4.2.2",
+        "laravel-vite-plugin": "^0.7.2",
+        "lodash": "^4.17.19",
+        "postcss": "^8.1.14",
+        "sass": "~1.32",
+        "sass-loader": "^13.2.0",
+        "sweetalert2": "^11.7.2",
+        "vite": "^4.0.0"
+    },
+    "dependencies": {
+        "@ckeditor/ckeditor5-build-classic": "^36.0.0",
+        "@ckeditor/ckeditor5-build-decoupled-document": "^36.0.1",
+        "@ckeditor/ckeditor5-vue": "^4.0.1",
+        "@vitejs/plugin-vue": "^4.0.0",
+        "ckeditor5-custom-build": "*",
+        "font-awesome": "^4.7.0",
+        "npm-check-updates": "^16.7.5",
+        "sweetalert": "^2.1.2",
+        "vue": "^3.2.36",
+        "vue-loader": "^17.0.1",
+        "vue-router": "^4.0.13",
+        "vue-sweetalert2": "^5.0.5",
+        "vue-template-compiler": "^2.7.14",
+        "vuetify": "^3.1.0"
+    }
+}

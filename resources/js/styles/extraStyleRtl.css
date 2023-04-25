@@ -1,0 +1,15 @@
+.v-main{
+    background-color: #ffffff;
+    /*width: 99% !important;*/
+    min-height: 900px;
+    padding-top: 90px !important;
+    margin: 1% !important;
+    box-shadow: #808891 ;
+}
+
+.main{
+    /*margin-top: 4%;*/
+    color: #000;
+
+    font-family: 'IRANSans';
+}
